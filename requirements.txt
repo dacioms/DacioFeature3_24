@@ -4,3 +4,6 @@ pandas
 matplotlib
 nltk
 statsmodels
+seaborn
+notebook
+jupyter
